@@ -4,7 +4,7 @@
 - With its powerful algorithms and easy-to-use interface, eo.miner is the perfect way to start earning cryptocurrency directly from your browser.
 
 <hr>
-<left></left><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></left>
+<left></left><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe><left>
 <hr>
 
 <h3> Invite & Earn Even More!</h3>
@@ -13,7 +13,7 @@
 - A few simple steps to earn more
 
 <hr>
-<left></left><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></left>
+<left></left><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe><left>
 <hr>
 
 - <b>Relax And Earn:</b> Just stay on this page and earn money
