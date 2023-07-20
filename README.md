@@ -8,9 +8,12 @@
 A few simple steps to earn more
 
 <hr>
-<h4>Relax And Earn</h4> Just stay on this page and earn money
-<h4>Our App</h4> Use desktop app to increase hashrate x1000 and earn more
-<h4>Share a link</h4> Get 30% of your friends' profits and extra an 10% from referrals of your friends
+<h4>Relax And Earn</h4> 
+- Just stay on this page and earn money
+<h4>Our App</h4>
+- Use desktop app to increase hashrate x1000 and earn more
+<h4>Share a link</h4>
+- Get 30% of your friends' profits and extra an 10% from referrals of your friends
 <hr>
 
  - <center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_self">Start Your Eo-Miner</a></b></center>
