@@ -3,5 +3,16 @@
 - EO.miner is the ultimate solution for anyone who wants to get involved in cryptocurrency mining. 
 - With its powerful algorithms and easy-to-use interface, eo.miner is the perfect way to start earning cryptocurrency directly from your browser.
 <h3> Invite & Earn Even More!</h3>
--Referal program: Get 30% of your friends' profits and 30% of their commissions for exchanging on eo.finance. 
--Extra 10% from referrals of your friends. These bonuses are for lifetime!
+- Referal program: Get 30% of your friends' profits and 30% of their commissions for exchanging on eo.finance. 
+- Extra 10% from referrals of your friends. These bonuses are for lifetime!
+A few simple steps to earn more
+
+<hr>
+- Relax And Earn
+Just stay on this page and earn money
+
+- Install Our App
+Use desktop app to increase hashrate x1000 and earn more
+
+- Share a link
+Get 30% of your friends' profits and extra an 10% from referrals of your friends
