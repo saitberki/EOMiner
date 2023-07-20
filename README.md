@@ -8,11 +8,11 @@
 A few simple steps to earn more
 
 <hr>
-<h4>Relax And Earn</h4> 
+<b>Relax And Earn</b> 
 - Just stay on this page and earn money
-<h4>Our App</h4>
+<b>Our App</b>
 - Use desktop app to increase hashrate x1000 and earn more
-<h4>Share a link</h4>
+<b>Share a link</b>
 - Get 30% of your friends' profits and extra an 10% from referrals of your friends
 <hr>
 
