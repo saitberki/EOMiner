@@ -16,4 +16,4 @@ A few simple steps to earn more
 - Get 30% of your friends' profits and extra an 10% from referrals of your friends
 <hr>
 
-<h1><center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_self">Start Your Eo-Miner</a></b></center></h1>
+<h1><center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_blank">Start Your Eo-Miner</a></b></center></h1>
