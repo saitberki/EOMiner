@@ -8,8 +8,8 @@
 A few simple steps to earn more
 
 <hr>
-- Relax And Earn
-Just stay on this page and earn money
+- <h4>Relax And Earn<h4>
+  Just stay on this page and earn money
 
 - Install Our App
 Use desktop app to increase hashrate x1000 and earn more
