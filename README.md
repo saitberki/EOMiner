@@ -13,4 +13,4 @@ A few simple steps to earn more
 <h4>Share a link</h4> Get 30% of your friends' profits and extra an 10% from referrals of your friends
 <hr>
 
- - </b><a href="https://miner.eo.finance/?r_id=472979866" target="_self">Start Your Eo-Miner</a></b>
+ - <center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_self">Start Your Eo-Miner</a></b></center>
