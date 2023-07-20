@@ -5,7 +5,7 @@
 
 <left><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe><left>
 
-<h3> Invite & Earn Even More!</h3>
+<h3>Invite & Earn Even More!</h3>
 - Referal program: Get 30% of your friends' profits and 30% of their commissions for exchanging on eo.finance. 
 - Extra 10% from referrals of your friends. These bonuses are for lifetime!
 - A few simple steps to earn more
