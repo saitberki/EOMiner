@@ -12,6 +12,7 @@
 - Extra 10% from referrals of your friends. These bonuses are for lifetime!
 - A few simple steps to earn more
 <hr>
+<h3>Eo.Miner Is Profitable</h3>  
 - <b>Relax And Earn:</b> Just stay on this page and earn money
 - <b>Our App:</b> Use desktop app to increase hashrate x1000 and earn more
 - <b>Share a Link:</b> Get 30% of your friends' profits and extra an 10% from referrals of your friends
