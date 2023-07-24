@@ -19,7 +19,7 @@
 - <b>Our App:</b> Use desktop app to increase hashrate x1000 and earn more
 - <b>Share a Link:</b> Get 30% of your friends' profits and extra an 10% from referrals of your friends
 <h2><center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_blank">(Start Your Eo-Miner)</a></b></center></h2>
-<hr>
-<center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center>
 
+<center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center>
+<hr>
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</center>
