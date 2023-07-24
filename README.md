@@ -1,5 +1,5 @@
-<h2>Eo.Miner Is The Easiest Way To Earn Cryptocurrency</h2>
-<h3>While You Remain On This Page You Will Earn</h3>
+<h1>Eo.Miner Is The Easiest Way To Earn Cryptocurrency</h1>
+<h2>While You Remain On This Page You Will Earn</h2>
 <img src="https://github.com/saitberki/EOMiner/blob/main/og-image.png?raw=true" alt="resme alternatif yazı">
 <hr>
 <h3>What Is Eo.Miner?</h3>
