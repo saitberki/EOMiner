@@ -5,6 +5,7 @@
 <h3>What Is Eo.Miner?</h3>
 - EO.miner is the ultimate solution for anyone who wants to get involved in cryptocurrency mining. 
 - With its powerful algorithms and easy-to-use interface, eo.miner is the perfect way to start earning cryptocurrency directly from your browser.
+<hr>
 <center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center><hr>
 <h3>Invite & Earn Even More!</h3>
 - Referal program: Get 30% of your friends' profits and 30% of their commissions for exchanging on eo.finance. 
