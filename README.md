@@ -14,3 +14,4 @@
 <hr>
 <h2><center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_blank">(Start Your Eo-Miner)</a></b></center></h2>
 
+<center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center>
