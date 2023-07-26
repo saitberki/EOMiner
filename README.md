@@ -1,6 +1,6 @@
 <h1>Eo.Miner Is The Easiest Way To Earn Cryptocurrency</h1>
 <center><h2>While You Remain On This Page You Will Earn</h2></center>
-<center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe><center>
+<center><iframe data-aa='2240890' src='//ad.a-ads.com/2240890?size=468x60' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe></center>
 <hr>
 <img src="https://github.com/saitberki/EOMiner/blob/main/og-image.png?raw=true" alt="resme alternatif yazı">
 <hr>
